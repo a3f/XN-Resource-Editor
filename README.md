@@ -13,5 +13,6 @@ And unusually XNResourceEditor can modify PE modules - even if you use Windows 9
 
 To compile XNResourceEditor you'll need to install the Resource Editor Components package that comes with the source download, together with my [Miscellaneous Components](http://www.wilsonc.demon.co.uk/d9miscunits.htm) package (make sure you've got the latest version). You'll also need my [Resource Utilities](www.wilsonc.demon.co.uk/d9resourceutils.htm), [Low Level Utilities](www.wilsonc.demon.co.uk/d9lowlevel.htm) and [Image Types](www.wilsonc.demon.co.uk/d9graphicsutils.htm) packages.
 
-==Screenshot==
+Screenshot
+----------
 ![](http://www.wilsonc.demon.co.uk/images/xnresourceeditor.png)
