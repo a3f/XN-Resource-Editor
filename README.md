@@ -5,9 +5,7 @@ resource editor and PE module explorer for
 Windows 98, Windows 2000 and Windows XP.
 
 This here is a mirror for the source code of version 3.0.0.1 released 17th December 2005.&nbsp; Rights reserved to the original author, ![Colin Wilson](http://www.wilsonc.demon.co.uk/). 
-Please see the
-[read
-me](files/d10/xnresourceeditor/readme.txt) file
+Please see the [changelog](changelog.md) file
 for details of what was new in that release.
 &nbsp;
 
